@@ -16,6 +16,9 @@ Allowed Keys: W, A, S, D -- Tells the program what keys it can press
 Chance: 2 -- The higher the number the less likely something happens
 Delay: 0.5 -- Delay between actions (in seconds)
 Random Mouse Button: ON -- Allows the program to choose between M1, M2, and M3. If off it defaults to M1
+Mouse Hold: ON -- Allows the program to hold down your M1 button
+Mouse Hold Time: 10 -- How long the mouse will be held if Mouse Hold is ON (In seconds)
+Skip Countdown: OFF -- Skips the 5 second countdown at the start
 # How to change settings
 Open RandomInput.py with a text editor (eg. notepad or visual studio). Change the variables to your liking. When your done click save.
 
